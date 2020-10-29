@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dashboard_nav"
+    app:startDestination="@id/chats">
+
+    <fragment
+        android:id="@+id/chats"
+        android:name="com.example.bonjour.fragments.chatsFragment"
+        android:label="fragment_chats"
+        tools:layout="@layout/fragment_chats" />
+    <fragment
+        android:id="@+id/explore"
+        android:name="com.example.bonjour.fragments.ExploreFragment"
+        android:label="fragment_explore"
+        tools:layout="@layout/fragment_explore" />
+    <fragment
+        android:id="@+id/friends"
+        android:name="com.example.bonjour.fragments.FriendsFragment"
+        android:label="fragment_friends"
+        tools:layout="@layout/fragment_friends" />
+    <fragment
+        android:id="@+id/requests"
+        android:name="com.example.bonjour.fragments.RequestsFragment"
+        android:label="fragment_requests"
+        tools:layout="@layout/fragment_requests" />
+    <fragment
+        android:id="@+id/settings"
+        android:name="com.example.bonjour.fragments.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>

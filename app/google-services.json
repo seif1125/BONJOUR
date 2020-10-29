@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "802724972433",
+    "firebase_url": "https://bonjour-8f2b3.firebaseio.com",
+    "project_id": "bonjour-8f2b3",
+    "storage_bucket": "bonjour-8f2b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802724972433:android:3ecea9f0d6afbddc60bc30",
+        "android_client_info": {
+          "package_name": "com.example.bonjour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802724972433-9bj4erqa5e0b3ljriis8g1lre8s5crgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnSC6lTNwFCZPc9u2qF76j_HqLGtNzPqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802724972433-9bj4erqa5e0b3ljriis8g1lre8s5crgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
