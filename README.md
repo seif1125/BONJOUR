@@ -1,5 +1,5 @@
 # BONJOUR
-![alt text](raw=true)
+![alt text](https://github.com/seif1125/BONJOUR/blob/master/app/src/main/res/drawable/logo.png?raw=true)
 Realtime Android chat App
 
 
