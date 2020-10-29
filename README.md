@@ -11,7 +11,8 @@ Realtime Android chat App
 # Special Thanks
 - i would like to thank Amit Academy() and Instructor Omar Ahmed() for their endless
 efforts thank you sincerly
-amit-learning.com
+www.amit-learning.com
+https://www.linkedin.com/in/omar-ahmed-abdelhay14/
 
 
 
